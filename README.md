@@ -1,27 +1,48 @@
 # VenueFlow
 
-VenueFlow is a hospitality booking and operations management system developed as a Final Year Project for the National College of Ireland.
+Hospitality Booking and Operations Management System
 
-## Project Overview
+## 📖 Overview
 
-The system aims to improve booking management, seating allocation, guest tracking, check-in, staff assignment, and reporting for hospitality venues.
+VenueFlow is a full-stack web application developed as a Final Year Project at the National College of Ireland.
 
-## Technologies
+The project aims to improve booking management, guest tracking, seating allocation, staff assignment and reporting for hospitality venues.
+
+---
+
+## 🚀 Technologies
 
 - React
 - Node.js
 - Express
 - MySQL
 
-## Current Progress
+---
 
-- ✅ Requirements Specification
-- ✅ ERD
-- ✅ Architecture Design
-- ✅ MySQL Database Design
-- 🔄 Backend Development
-- 🔄 Frontend Development
+## 📂 Project Structure
 
-## Author
+backend/
+
+database/
+
+docs/
+
+frontend/
+
+---
+
+## 📅 Project Status
+
+✅ Requirements
+
+✅ Database Design
+
+🔄 Backend Development
+
+🔄 Frontend Development
+
+---
+
+## 👩‍💻 Author
 
 Iliana Maldonado
